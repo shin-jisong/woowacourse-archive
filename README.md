@@ -26,10 +26,10 @@
 
 |      Mission      |           Period            |                             Repository                             |                                 PR 1                                  |                                  PR 2                                 |
 | :---------------: | :-------------------------: | :----------------------------------------------------------------: | :-----------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| 자동차 경주 - 단위 테스트 <br>  | `2024-02-13` ~ `2024-02-19` |  [Repository](https://github.com/shin-jisong/java-racingcar)   | [step1](https://github.com/woowacourse/java-racingcar/pull/683)  |  [step2](https://github.com/woowacourse/java-racingcar/pull/783)  |
-|     사다리 타기 - TDD <br>     | `2024-02-20` ~ `2024-03-04` |   [Repository](https://github.com/shin-jisong/java-ladder)    |   [step1](https://github.com/woowacourse/java-ladder/pull/271)    |    [step2](https://github.com/woowacourse/java-ladder/pull/350)    |
-| 블랙잭 - Clean Code <br> | `2024-03-05` ~ `2024-03-18` |    [Repository](https://github.com/shin-jisong/java-blackjack)     |    [step1](https://github.com/woowacourse/java-blackjack/pull/603)     |    [step2](https://github.com/woowacourse/java-blackjack/pull/700)     |
-| 체스 - OOP, DB <br>   | `2024-03-19` ~ `2024-04-01` | [Repository](https://github.com/shin-jisong/java-chess) | [step1&2](https://github.com/woowacourse/java-chess/pull/651) | [step3&4](https://github.com/woowacourse/java-chess/pull/754) |
+| 자동차 경주 - 단위 테스트 <br>  | `2024-02-13` ~ `2024-02-19` |  [java-racingcar](https://github.com/shin-jisong/java-racingcar)   | [step1](https://github.com/woowacourse/java-racingcar/pull/683)  |  [step2](https://github.com/woowacourse/java-racingcar/pull/783)  |
+|     사다리 타기 - TDD <br>     | `2024-02-20` ~ `2024-03-04` |   [java-ladder](https://github.com/shin-jisong/java-ladder)    |   [step1](https://github.com/woowacourse/java-ladder/pull/271)    |    [step2](https://github.com/woowacourse/java-ladder/pull/350)    |
+| 블랙잭 - Clean Code <br> | `2024-03-05` ~ `2024-03-18` |    [java-blackjack](https://github.com/shin-jisong/java-blackjack)     |    [step1](https://github.com/woowacourse/java-blackjack/pull/603)     |    [step2](https://github.com/woowacourse/java-blackjack/pull/700)     |
+| 체스 - OOP, DB <br>   | `2024-03-19` ~ `2024-04-01` | [java-chess](https://github.com/shin-jisong/java-chess) | [step1&2](https://github.com/woowacourse/java-chess/pull/651) | [step3&4](https://github.com/woowacourse/java-chess/pull/754) |
 
 <br>
 
@@ -51,10 +51,10 @@
 
 |      Mission      |           Period            |                             Repository                             |                                 PR 1                                  |                                  PR 2                                 |                                 PR 3                                 |
 | :---------------: | :-------------------------: | :----------------------------------------------------------------: | :-----------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| 방탈출 예약 관리 <br>  | `2024-04-16` ~ `2024-04-29` |  [Repository](https://github.com/shin-jisong/spring-roomescape-admin)   | [step1-3](https://github.com/woowacourse/spring-roomescape-admin/pull/60)  |  [step4-9](https://github.com/woowacourse/spring-roomescape-admin/pull/129)  |  [step10](https://github.com/woowacourse/spring-roomescape-admin/pull/192)  |
-| 방탈출 사용자 예약 <br>     | `2024-04-30` ~ `2024-05-13` |   [Repository](https://github.com/shin-jisong/spring-roomescape-member)    |   [step1-3](https://github.com/woowacourse/spring-roomescape-member/pull/36)    |    [step4-6](https://github.com/woowacourse/spring-roomescape-member/pull/127)    |    |
-| 방탈출 예약 대기 <br> | `2024-05-14` ~ `2024-05-27` |    [Repository](https://github.com/shin-jisong/spring-roomescape-waiting)     |    [step1-2](https://github.com/woowacourse/spring-roomescape-waiting/pull/76)     |    [step3-4](https://github.com/woowacourse/spring-roomescape-waiting/pull/134)     |    |
-| 방탈출 결제/배포 <br>   | `2024-05-28` ~ `2024-06-10` | [Repository](https://github.com/shin-jisong/spring-roomescape-payment) | [step1](https://github.com/woowacourse/spring-roomescape-payment/pull/18) | [step2-4](https://github.com/woowacourse/spring-roomescape-payment/pull/104) | |
+| 방탈출 예약 관리 <br>  | `2024-04-16` ~ `2024-04-29` |  [spring-roomescape-admin](https://github.com/shin-jisong/spring-roomescape-admin)   | [step1-3](https://github.com/woowacourse/spring-roomescape-admin/pull/60)  |  [step4-9](https://github.com/woowacourse/spring-roomescape-admin/pull/129)  |  [step10](https://github.com/woowacourse/spring-roomescape-admin/pull/192)  |
+| 방탈출 사용자 예약 <br>     | `2024-04-30` ~ `2024-05-13` |   [spring-roomescape-member](https://github.com/shin-jisong/spring-roomescape-member)    |   [step1-3](https://github.com/woowacourse/spring-roomescape-member/pull/36)    |    [step4-6](https://github.com/woowacourse/spring-roomescape-member/pull/127)    |    |
+| 방탈출 예약 대기 <br> | `2024-05-14` ~ `2024-05-27` |    [spring-roomescape-waiting](https://github.com/shin-jisong/spring-roomescape-waiting)     |    [step1-2](https://github.com/woowacourse/spring-roomescape-waiting/pull/76)     |    [step3-4](https://github.com/woowacourse/spring-roomescape-waiting/pull/134)     |    |
+| 방탈출 결제/배포 <br>   | `2024-05-28` ~ `2024-06-10` | [spring-roomescape-payment](https://github.com/shin-jisong/spring-roomescape-payment) | [step1](https://github.com/woowacourse/spring-roomescape-payment/pull/18) | [step2-4](https://github.com/woowacourse/spring-roomescape-payment/pull/104) | |
 
 
 <br>
@@ -71,21 +71,27 @@
 
 |          Project           |                             Repository                              |               Website                |
 | :------------------------: | :-----------------------------------------------------------------: |  :-----------------------------------: |
-| 방 구하기 끝, 그래서 방긋! "방끗" 🏡 | [Repository](https://github.com/woowacourse-teams/2024-bang-ggood) | [사이트](https://bang-ggood.com) |
+| 방 구하기 끝, 그래서 방긋! "방끗" 🏡 | [2024-bang-ggood](https://github.com/woowacourse-teams/2024-bang-ggood) | [😊](https://bang-ggood.com) |
 
 
 <br>
 
-## ⭐ Level 4
+## ⭐ Level 4 : Framework
 
-> 
+> 2024.09.03 ~ 2024.11.01
 
 ### 🎯 학습 목표 
+- 웹 서버를 직접 만들어 보는 경험을 통해 HTTP에 대한 이해도를 높인다.
+- 나만의 라이브러리를 직접 구현해 보는 경험을 통해 업무에서 발생하는 중복 코드를 제거하는 역량을 쌓는다.
+- MVC, DI 컨테이너, AOP를 직접 구현해 보는 경험을 통해 스프링 프레임워크의 내부 동작 원리에 대한 이해도를 높인다.
+- 웹 서버, 라이브러리, 프레임워크를 구현하면서 TDD, 클린 코드, 객체지향설계에 대한 연습을 한다.
 
-### 🛠️ 미션 
-
-
-<br>
+|      Mission      |           Period            |                             Repository                             |                                 PR 1                                  |                                  PR 2                                 |                                 PR 3                                 |                                 PR 4                                 |
+| :---------------: | :-------------------------: | :----------------------------------------------------------------: | :-----------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| Tomcat 구현하기 <br>  | `2024-09-03` ~ `2024-09-13` |  [java-http](https://github.com/shin-jisong/java-http)   | [step1&2](https://github.com/woowacourse/java-http/pull/524)  |  [step3](https://github.com/woowacourse/java-http/pull/632)  |  [step4](https://github.com/woowacourse/java-http/pull/682)  |    |
+| MVC 프레임워크 구현하기 <br>     | `2024-09-16` ~ `2024-10-01` |   [java-mvc](https://github.com/shin-jisong/java-mvc)    |   [step1](https://github.com/woowacourse/java-mvc/pull/700)    |    [step2](https://github.com/woowacourse/java-mvc/pull/787)    | [step3](https://github.com/woowacourse/java-mvc/pull/827)   |    |
+| JDBC 라이브러리 구현하기 <br> | `2024-10-03` ~ `2024-10-14` |    [java-jdbc](https://github.com/shin-jisong/java-jdbc)     |    [step1](https://github.com/woowacourse/java-jdbc/pull/657)     |    [step2](https://github.com/woowacourse/java-jdbc/pull/714)     |  [step3](https://github.com/woowacourse/java-jdbc/pull/790)  |  [step4](https://github.com/woowacourse/java-jdbc/pull/876)  |
+| DB 복제와 캐시 <br>   | `2024-10-15` ~ `2024-10-17` | [java-coupon](https://github.com/shin-jisong/java-coupon) | [step1](https://github.com/woowacourse/java-coupon/pull/52) | [step2](https://github.com/woowacourse/java-coupon/pull/123) | |  |
 
 
 ## ✍️ Writing: 글쓰기 미션 
