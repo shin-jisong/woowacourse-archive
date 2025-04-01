@@ -92,13 +92,18 @@
 
 | Level  |                     Topic                     |                                                          Content                                                           |
 | :----: | :-------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-| 1 <br> |           제목          |        [본문]()        |
-| 2 <br> |            제목               |        [본문]()        |
-| 3 <br> |           제목               | [본문]() |
+| 1 <br> |           놀이터 정상 영업 중 🎡 (시소는 미끄럼틀도, 정글짐도 동료?)           |        [본문](https://github.com/shin-jisong/woowa-writing/blob/Level1/Level1.md)        |
+| 2 <br> |           놀이터 봄 맞이 이벤트 준비 중 🌸 (시소는 해낼 것이다!)               |        [본문](https://github.com/shin-jisong/woowa-writing/blob/Level2/Level2.md)        |
+| 3 <br> |           방끗 놀이터 개장 준비 중 😊 (시소는 경험이 쌓이는 '시'간 속에서 '소'신을 바꾼다)               | [본문](https://github.com/shin-jisong/woowa-writing/blob/Level3/Level3.md) |
 
 <br>
 
-## Tecotalk
-유튜브 링크
-블로그 링크
+## 🔊 Tecotalk : 10분 기술 발표
+> '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생)들이 동료들과 학습한 내용을 공유하고 이야기하는 시간입니다. 서로가 성장하기 위해 지식을 나누고 대화하며 생각해보는 시간으로 자기 주도적인 성장을 지향하는 우아한테크코스의 문화 중 하나입니다.
+
+<br>
+
+📹 **Youtube** : [10분 테코톡] 시소의 포트포워딩 그랬구나 [🔗](https://www.youtube.com/watch?v=uZdUO9Oi7DA&t=9s)
+<br>
+📜 **Blog** : 포트 포워딩, "잘" 해 봅시다 [🔗](https://velog.io/@shin-jisong/%ED%8F%AC%ED%8A%B8-%ED%8F%AC%EC%9B%8C%EB%94%A9-%EC%9E%98-%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 
